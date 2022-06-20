@@ -29,3 +29,17 @@ We will be working with 5 main data types
 2. Can only contain numbers, letters, and underscores ( _ )
 3. If more than one word, use ccamelCase or underscores to separate words 
 `myFirstName` or `myfirst_name`
+
+
+## Concatenation 
+`+` Adding strings together, appen ding (add to end) 
+`"Hello " + "World" = " Hello World"`
+
+## Type Cast
+Forcing a data type on a value 
+
+### To force an interger into a string 
+`str(veriabbleName)`
+
+### To force a string into an interger 
+`int(variableName)` 
